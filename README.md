@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,meu nome é Matheus Menezes Bernardo</h1>
 <h3 align="center">Entusiasta de insights e descobertas em dados</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Dados do Campeonato Brasileiro](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3820285923208374/2897594444959936/7208511417105602/latest.html)
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Regressão Linear Multipla - Prevendo preços de Aluguel] https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3820285923208374/1720956257738858/7208511417105602/latest.html
 
 - 🌱 I’m currently learning **Estatística e Machine Learning**
 
